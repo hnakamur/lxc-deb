@@ -1,3 +1,9 @@
+lxc (2.1.0-1ubuntu1~16.04.1hnakamur1) xenial; urgency=medium
+
+  * Imported Upstream version 2.1.0 (Note this is not LTS)
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Mon, 11 Sep 2017 03:03:58 +0900
+
 lxc (2.0.8-0ubuntu1~16.04.2) xenial; urgency=medium
 
   * Cherry-pick upstream workaround for ppc64el failure:
